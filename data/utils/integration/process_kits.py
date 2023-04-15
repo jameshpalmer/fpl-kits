@@ -15,16 +15,28 @@ Return format:
     ...
 ]
 """
+from logging import getLogger
+
 
 def main(kits: list[dict], clubs: dict[str, str], seasons: dict[str, str]):
+    log = getLogger(__name__)
+
     kit_data = []
     for kit in kits:
         club_id = [ref['id'] for ref in kit['references'] if ref['type'] == 'FOOTBALL_CLUB'][0]
         season_id = [ref['id'] for ref in kit['references'] if ref['type'] == 'FOOTBALL_COMPSEASON'][0]
         kit_title = kit['title'].lower()
-        kit_type = 'home' if 'home' in kit_title else 'away' if 'away' in kit_title \
-                        else 'third' if 'third' in kit_title else 'unknown'
-    
+
+        if 'home' in kit_title or 'hk' in kit_title:
+            kit_type = 'home'
+        elif 'away' in kit_title or 'ak' in kit_title:
+            kit_type = 'away'
+        elif 'third' in kit_title or 'tk' in kit_title:
+            kit_type = 'third'
+        else:
+            log.warning(f'Kit {kit["id"]} has an unknown kit type: {kit_title}')
+            continue
+
         kit_data.append({
             'id': kit['id'],
             'club_id': club_id,
