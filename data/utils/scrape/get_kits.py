@@ -31,6 +31,9 @@ def flatten_list_of_dicts(lst):
 
 
 def main():
+    """
+    Get all kit data from the Pulse API.
+    """
     url = "https://footballapi.pulselive.com/content/PremierLeague/photo/EN/?pageSize=100&tagNames=PL%20Kits"
     headers = {"Origin": "https://www.premierleague.com"}
     response = requests.get(url, headers=headers)

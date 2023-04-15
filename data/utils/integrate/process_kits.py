@@ -1,24 +1,26 @@
-"""
-This script takes raw kit data from the Pulse API (via data/utils/scraping) 
-and processes it into a more usable format for database insertion.
-
-Return format:
-[
-    {
-        "id": <int>,
-        "club_id": <int>,
-        "season_id": <int>,
-        "kit_type": <str>,
-        "kit_name": <str>,
-        "kit_image_url": <str>
-    },
-    ...
-]
-"""
 from logging import getLogger
 
 
 def main(kits: list[dict], clubs: dict[str, str], seasons: dict[str, str]):
+    """
+    Takes raw kit data from the Pulse API (via data/utils/scraping) 
+    and processes it into a more usable format for database insertion.
+
+    Return format:
+    ```
+    [
+        {
+            "id": <int>,
+            "club_id": <int>,
+            "season_id": <int>,
+            "kit_type": <str>,
+            "kit_name": <str>,
+            "kit_image_url": <str>
+        },
+        ...
+    ]
+    ```
+    """
     log = getLogger(__name__)
 
     kit_data = []
