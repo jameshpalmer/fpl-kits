@@ -11,10 +11,7 @@ def create_tables():
     Kit.__table__.create(bind=session.bind, checkfirst=True)
 
 
-# add data to empty database
-def main():
-    create_tables()
-    
+def load_data():
     clubs = get_clubs()
     seasons = get_seasons()
 
@@ -36,14 +33,26 @@ def main():
         
         kit = Kit(
             club_season_id=club_season.id,
-            kit_type=kit['kit_type'],
-            kit_name=kit['kit_name'],
-            kit_image_url=kit['kit_image_url']
+            type=kit['kit_type'],
+            name=kit['kit_name'],
+            image_url=kit['kit_image_url']
         )
         session.add(kit)
     
     session.commit()
 
+
+def export_data():
+    for club in session.query(Club).all():
+        for club_season in club.seasons:
+            for kit in club_season.kits:
+                pass
+
+
+def main():
+    create_tables()
+    load_data()
+    export_data()
     
 
 if __name__ == "__main__":
