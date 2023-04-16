@@ -1,0 +1,1 @@
+console.log("fpl-classic-kits: popup.js loaded");

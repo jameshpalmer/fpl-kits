@@ -1,0 +1,27 @@
+{
+    "name": "FPL Classic Kits",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "A Chrome extension to allow users to use classic kits in FPL",
+    "permissions": ["activeTab"],
+    "host_permissions": ["https://fantasy.premierleague.com/*"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "FPL Classic Kits",
+      "default_icon": {
+        "16": "icons/16x16.png",
+        "32": "icons/32x32.png",
+        "48": "icons/48x48.png",
+        "128": "icons/128x128.png"
+      }
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://fantasy.premierleague.com/*"],
+        "js": ["content.js"],
+        "css": ["styles.css"],
+        "run_at": "document_start"
+      }
+    ]
+  }
+  

@@ -1,0 +1,1 @@
+console.log("fpl-classic-kits: content.js loaded");
