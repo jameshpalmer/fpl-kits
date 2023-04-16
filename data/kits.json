@@ -1,11 +1,5 @@
 [
     {
-        "club_id": -1,
-        "club_name": "All Clubs",
-        "club_fpl_name": null,
-        "seasons": []
-    },
-    {
         "club_id": 1,
         "club_name": "Arsenal",
         "club_fpl_name": null,

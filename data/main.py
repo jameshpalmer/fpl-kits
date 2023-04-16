@@ -65,7 +65,7 @@ def main():
 
     distribute_to = [
         'data/kits.json',
-        'fpl-classic-kits/data/kits.json'
+        'chrome-extensions/unzipped/fpl-classic-kits/data/kits.json'
     ]
     export_kits(distribute_to)
     

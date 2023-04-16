@@ -8,7 +8,7 @@ def main():
     """
     Get club data from club dropdown on PL site.
     """
-    with open("data/static_content/clubDropdown.html") as f:
+    with open("data/static-content/clubDropdown.html") as f:
         soup = BeautifulSoup(f, "html.parser")
 
     options = soup.find_all("li")
@@ -17,6 +17,8 @@ def main():
     club_data = {}
     for option in options:
         club_id = int(option["data-option-id"])
+        if club_id == -1:
+            continue
         club_name = option["data-option-name"]
         club_data[club_id] = club_name
 

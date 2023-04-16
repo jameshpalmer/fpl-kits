@@ -8,7 +8,7 @@ def main():
     """
     Get season data from season dropdown on PL site.
     """
-    with open("data/static_content/seasonDropdown.html") as f:
+    with open("data/static-content/seasonDropdown.html") as f:
         soup = BeautifulSoup(f, "html.parser")
 
     options = soup.find_all("li")
