@@ -1,3 +1,5 @@
+import pandas as pd
+
 from database import session
 from models import Club, Season, ClubSeason, Kit
 from utils.scrape import get_kits, get_clubs, get_seasons
@@ -24,8 +26,14 @@ def load_data():
     clubs = get_clubs()
     seasons = get_seasons()
 
+    fpl_names = pd.read_csv('data/static-content/fplClubNames.csv', index_col=0)
+
     for club_id, club_name in clubs.items():
-        club = Club(id=club_id, name=club_name)
+        try: # FPL name is taken from fplClubNames.csv if it exists
+            fpl_name = fpl_names.loc[club_id, 'fpl_name']
+        except KeyError:
+            fpl_name = None
+        club = Club(id=club_id, name=club_name, fpl_name=fpl_name)
         session.add(club)
     
     for season_id, season_year in seasons.items():

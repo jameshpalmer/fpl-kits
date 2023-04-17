@@ -2,7 +2,7 @@
     {
         "club_id": 1,
         "club_name": "Arsenal",
-        "club_fpl_name": null,
+        "club_fpl_name": "Arsenal",
         "seasons": [
             {
                 "season_id": 489,
@@ -621,7 +621,7 @@
     {
         "club_id": 2,
         "club_name": "Aston Villa",
-        "club_fpl_name": null,
+        "club_fpl_name": "Aston Villa",
         "seasons": [
             {
                 "season_id": 418,
@@ -1493,7 +1493,7 @@
     {
         "club_id": 4,
         "club_name": "Chelsea",
-        "club_fpl_name": null,
+        "club_fpl_name": "Chelsea",
         "seasons": [
             {
                 "season_id": 418,
@@ -2287,7 +2287,7 @@
     {
         "club_id": 6,
         "club_name": "Crystal Palace",
-        "club_fpl_name": null,
+        "club_fpl_name": "Crystal Palace",
         "seasons": [
             {
                 "season_id": 489,
@@ -2582,7 +2582,7 @@
     {
         "club_id": 7,
         "club_name": "Everton",
-        "club_fpl_name": null,
+        "club_fpl_name": "Everton",
         "seasons": [
             {
                 "season_id": 418,
@@ -3298,7 +3298,7 @@
     {
         "club_id": 9,
         "club_name": "Leeds United",
-        "club_fpl_name": null,
+        "club_fpl_name": "Leeds",
         "seasons": [
             {
                 "season_id": 489,
@@ -3593,7 +3593,7 @@
     {
         "club_id": 10,
         "club_name": "Liverpool",
-        "club_fpl_name": null,
+        "club_fpl_name": "Liverpool",
         "seasons": [
             {
                 "season_id": 489,
@@ -4212,7 +4212,7 @@
     {
         "club_id": 11,
         "club_name": "Manchester City",
-        "club_fpl_name": null,
+        "club_fpl_name": "Man City",
         "seasons": [
             {
                 "season_id": 489,
@@ -4741,7 +4741,7 @@
     {
         "club_id": 12,
         "club_name": "Manchester United",
-        "club_fpl_name": null,
+        "club_fpl_name": "Man Utd",
         "seasons": [
             {
                 "season_id": 489,
@@ -5842,7 +5842,7 @@
     {
         "club_id": 15,
         "club_name": "Nottingham Forest",
-        "club_fpl_name": null,
+        "club_fpl_name": "Nott'm Forest",
         "seasons": [
             {
                 "season_id": 489,
@@ -6399,7 +6399,7 @@
     {
         "club_id": 20,
         "club_name": "Southampton",
-        "club_fpl_name": null,
+        "club_fpl_name": "Southampton",
         "seasons": [
             {
                 "season_id": 418,
@@ -6892,7 +6892,7 @@
     {
         "club_id": 21,
         "club_name": "Tottenham Hotspur",
-        "club_fpl_name": null,
+        "club_fpl_name": "Spurs",
         "seasons": [
             {
                 "season_id": 418,
@@ -7668,7 +7668,7 @@
     {
         "club_id": 23,
         "club_name": "Newcastle United",
-        "club_fpl_name": null,
+        "club_fpl_name": "Newcastle",
         "seasons": [
             {
                 "season_id": 489,
@@ -8252,7 +8252,7 @@
     {
         "club_id": 25,
         "club_name": "West Ham United",
-        "club_fpl_name": null,
+        "club_fpl_name": "West Ham",
         "seasons": [
             {
                 "season_id": 489,
@@ -8793,7 +8793,7 @@
     {
         "club_id": 26,
         "club_name": "Leicester City",
-        "club_fpl_name": null,
+        "club_fpl_name": "Leicester",
         "seasons": [
             {
                 "season_id": 418,
@@ -10223,7 +10223,7 @@
     {
         "club_id": 34,
         "club_name": "Fulham",
-        "club_fpl_name": null,
+        "club_fpl_name": "Fulham",
         "seasons": [
             {
                 "season_id": 489,
@@ -11055,7 +11055,7 @@
     {
         "club_id": 38,
         "club_name": "Wolverhampton Wanderers",
-        "club_fpl_name": null,
+        "club_fpl_name": "Wolves",
         "seasons": [
             {
                 "season_id": 418,
@@ -12192,7 +12192,7 @@
     {
         "club_id": 127,
         "club_name": "Bournemouth",
-        "club_fpl_name": null,
+        "club_fpl_name": "Bournemouth",
         "seasons": [
             {
                 "season_id": 489,
@@ -12343,7 +12343,7 @@
     {
         "club_id": 130,
         "club_name": "Brentford",
-        "club_fpl_name": null,
+        "club_fpl_name": "Brentford",
         "seasons": [
             {
                 "season_id": 489,
@@ -12392,7 +12392,7 @@
     {
         "club_id": 131,
         "club_name": "Brighton & Hove Albion",
-        "club_fpl_name": null,
+        "club_fpl_name": "Brighton",
         "seasons": [
             {
                 "season_id": 489,
