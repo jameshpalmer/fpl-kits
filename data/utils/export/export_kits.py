@@ -6,35 +6,49 @@ from database import session
 
 def get_club_data(club: Club):
     club_data = {
-        'club_id': club.id,
-        'club_name': club.name,
-        'club_fpl_name': club.fpl_name,
-        'seasons': []
+        "club_id": club.id,
+        "club_name": club.name,
+        "club_fpl_name": club.fpl_name,
+        "seasons": [],
     }
     for club_season in club.seasons:
         season = club_season.season
         season_data = {
-            'season_id': season.id,
-            'season_year': season.year,
-            'season_kits': []
+            "season_id": season.id,
+            "season_year": season.year,
+            "season_kits": [],
         }
         for kit in club_season.kits:
             kit_data = {
-                'kit_id': kit.id,
-                'kit_type': kit.type,
-                'kit_name': kit.name,
-                'kit_image_url': kit.image_url
+                "kit_id": kit.id,
+                "kit_type": kit.type,
+                "kit_name": kit.name,
+                "kit_image_url": kit.image_url,
             }
-            season_data['season_kits'].append(kit_data)
-        club_data['seasons'].append(season_data)
+            season_data["season_kits"].append(kit_data)
+        season_data["season_kits"].sort(
+            key=lambda x: ["home", "away", "third"].index(x["kit_type"])
+        )
+        club_data["seasons"].append(season_data)
+    club_data["seasons"].sort(key=lambda x: x["season_year"], reverse=True)
     return club_data
 
 
-def get_all_data():
+def get_all_data(only_fpl_clubs: bool = True):
     data = []
-    for club in session.query(Club).all():
-        club_data = get_club_data(club)
-        data.append(club_data)
+    if only_fpl_clubs:
+        for club in (
+            session.query(Club)
+            .filter(Club.fpl_name != None)
+            .order_by(Club.fpl_name)
+            .all()
+        ):
+            club_data = get_club_data(club)
+            data.append(club_data)
+    else:
+        for club in session.query(Club).order_by(Club.fpl_name).all():
+            club_data = get_club_data(club)
+            data.append(club_data)
     return data
 
 
@@ -42,12 +56,11 @@ def export_data(data, paths: str | list[str]):
     if isinstance(paths, str):
         paths = [paths]
     for path in paths:
-        with open(path, 'w') as file:
+        with open(path, "w") as file:
             json.dump(data, file, indent=4)
-    
 
 
-def main(paths: str | list[str] = 'data/kits.json'):
+def main(paths: str | list[str] = "data/kits.json"):
     """
     Distributes all kit data to given paths in JSON files with the following format:
 
