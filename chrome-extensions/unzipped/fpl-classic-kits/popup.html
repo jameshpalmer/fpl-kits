@@ -1,18 +1,43 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Fantasy Premier League Options</title>
-    <link rel="stylesheet" type="text/css" href="popup.css">
-  </head>
-  <body>
-    <h1>Fantasy Premier League Options</h1>
-    <p>Here are your options:</p>
-    <ul>
-      <li>Option 1</li>
-      <li>Option 2</li>
-      <li>Option 3</li>
-    </ul>
-    <script src="popup.js"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>FPL Classic Kits</title>
+  <link href="https://unpkg.com/tailwindcss@^2.2.7/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="font-mono">
+  <div id="popup-view" class="w-60 select-none">
+    <div id="title-container" class="bg-gray-200 p-2 rounded-lg text-center bottom">
+      <h1 class="text-xl font-bold">FPL Classic Kits</h1>
+    </div>
+    <div id="pagination-container" class="justify-between flex flex-row align-middle p-1 items-center">
+      <!-- Got to previous page -->
+      <button id="prev" class="bg-gray-100 p-2 rounded-lg text-center">&lt;</button>
+      <!-- Space for selected team name, make sure it is in the vertial middle of the div -->
+      <span id="team-name" class="text-center h-full text-sm"></span>
+      <!-- Got to next page -->
+      <button id="next" class="bg-gray-100 p-2 rounded-lg text-center">&gt;</button>
+    </div>
+    <div id="selections-container" class="flex justify-between p-1">
+      <!-- Select Season -->
+      <select id="season-select" class="bg-gray-100 p-2 rounded-lg text-center w-6/12">
+      </select>
+      <div class="w-1"></div>
+      <!-- Select Home Kit -->
+      <select id="kit-type-select" class="bg-gray-100 p-2 rounded-lg text-center w-6/12">
+      </select>
+    </div>
+    <div id="club-image-container" class="flex justify-center">
+      <img id="club-image" class="w-1/2 p-2" alt="Currently Selected Shirt">
+    </div>
+    <div id="reset-all-button-container" class="flex justify-center">
+      <button id="reset-all" class=" bg-red-200 p-2 rounded-lg text-center">Reset All</button>
+    </div>
+    <div class="h-1"></div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+
 </html>
