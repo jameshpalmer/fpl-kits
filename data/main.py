@@ -25,6 +25,8 @@ def load_data():
     clubs = get_clubs()
     seasons = get_seasons()
 
+    print(clubs)
+
     fpl_names = pd.read_csv("data/static-content/fplClubNames.csv", index_col=0)
 
     for club_id, club_name in clubs.items():

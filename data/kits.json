@@ -5,6 +5,30 @@
         "club_fpl_name": "Arsenal",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644268,
+                        "kit_type": "home",
+                        "kit_name": "Arsenal 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/c7176975-7020-41b7-bb1b-e2e1dbeb7b68/ARS_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644271,
+                        "kit_type": "away",
+                        "kit_name": "Arsenal 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/08290777-016d-4634-8d02-47bfb5e3ad66/ARS_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644248,
+                        "kit_type": "third",
+                        "kit_name": "Arsenal 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/2f5cc320-ebdf-42e1-9966-c6df82275193/ARS_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -624,6 +648,30 @@
         "club_fpl_name": "Aston Villa",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644280,
+                        "kit_type": "home",
+                        "kit_name": "Aston Villa 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/75ac0bfd-7ca5-4166-81df-f5cc086852b3/AVL_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644279,
+                        "kit_type": "away",
+                        "kit_name": "Aston Villa 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/76672435-c930-47b9-9f44-913dc2c6b9a8/AVL_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3663149,
+                        "kit_type": "third",
+                        "kit_name": "Aston Villa 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/31/429a5ed4-b9f6-4bb2-ae90-5f6fd7a5ff4b/AVL_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -1159,6 +1207,30 @@
         "club_fpl_name": "Bournemouth",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3645426,
+                        "kit_type": "home",
+                        "kit_name": "Bournemouth 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/21/f5b9457f-459b-4468-a34f-88864e7d1273/BOU_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3645428,
+                        "kit_type": "away",
+                        "kit_name": "Bournemouth 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/21/76fa21c6-1c73-4dc6-974f-d884dd24dfbd/BOU_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3645431,
+                        "kit_type": "third",
+                        "kit_name": "Bournemouth 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/21/c4fdd6c3-9e3f-4573-8cfc-699fba77d4d4/BOU_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -1310,6 +1382,30 @@
         "club_fpl_name": "Brentford",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644337,
+                        "kit_type": "home",
+                        "kit_name": "Brentford 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/b10fdb30-f163-4fb4-a05d-3c8d405e976d/BRE_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644338,
+                        "kit_type": "away",
+                        "kit_name": "Brentford 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/fc10f3ae-1d00-4eb7-a5ce-29cbc69e1cf0/BRE_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644339,
+                        "kit_type": "third",
+                        "kit_name": "Brentford 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/56bc838d-6197-46ea-8169-2e34039b1330/BRE_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -1358,6 +1454,30 @@
         "club_name": "Brighton & Hove Albion",
         "club_fpl_name": "Brighton",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644362,
+                        "kit_type": "home",
+                        "kit_name": "Brighton & Hove Albion 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/0895296e-ba76-43ea-9aac-5368425d040b/BHA_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644363,
+                        "kit_type": "away",
+                        "kit_name": "Brighton & Hove Albion 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/2d8e7b39-88c5-43d6-b1e7-b20f6e3f52cb/BHA_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644364,
+                        "kit_type": "third",
+                        "kit_name": "Brighton & Hove Albion 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/1a2e7c43-c1b5-4b61-ae4f-53ebc4282d03/BHA_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
@@ -1505,10 +1625,245 @@
         ]
     },
     {
+        "club_id": 43,
+        "club_name": "Burnley",
+        "club_fpl_name": "Burnley",
+        "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644372,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/e1d1da8f-bf8c-4c13-95c8-42f5d71b7eb3/BUR_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644373,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/b3b994b8-62d0-4aac-a5b4-ac3d76a59e19/BUR_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644374,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/a0c331dd-b9c1-4089-9688-f927eae34b14/BUR_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 418,
+                "season_year": "2021/22",
+                "season_kits": [
+                    {
+                        "kit_id": 3016108,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2021/22 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/01/11/f428b31d-35e0-4f00-9a10-d2be5852eaf5/BUR-HK-516x680.png"
+                    },
+                    {
+                        "kit_id": 3016107,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2021/22 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/01/11/46d2b593-9ab3-40f4-a339-bd51f72062b3/BUR-AK-516x680.png"
+                    },
+                    {
+                        "kit_id": 2246814,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2021/22 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2021/09/08/b0da1763-c445-48df-a992-47a122887202/BUR_2122_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 363,
+                "season_year": "2020/21",
+                "season_kits": [
+                    {
+                        "kit_id": 1756392,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2020/21 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/20/4c8b1428-9519-4afd-9e1b-2d12576d3c53/BUR_HK_516_2020_21.png"
+                    },
+                    {
+                        "kit_id": 1832240,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2020/21 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2020/09/16/829623d7-cf06-4757-83e9-2ba3197f2d2d/BUR_AK_516_2020_21.png"
+                    },
+                    {
+                        "kit_id": 1863600,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2020/21 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2020/10/16/cfefa47c-f2f9-4433-b8e7-44bf75be71b9/BUR_TK_516_2020_21-1-.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 274,
+                "season_year": "2019/20",
+                "season_kits": [
+                    {
+                        "kit_id": 1260614,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2019/20 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2019/07/01/c1de48ff-dca3-4ced-aa1a-fd108b4da1d7/BUR_HK_516.png"
+                    },
+                    {
+                        "kit_id": 1297646,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2019/20 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2019/07/30/6776cde8-63bf-4d42-82cd-5fface84893d/BUR_AK_516.png"
+                    },
+                    {
+                        "kit_id": 1321262,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2019/20 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2019/08/23/5de2fe06-3dd3-4cd9-a42f-ecf341e5bf93/BUR_TK_516.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 210,
+                "season_year": "2018/19",
+                "season_kits": [
+                    {
+                        "kit_id": 902678,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2018/19 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/11/08/79e6859d-14ed-427b-87c3-86920ed722d2/burnley-hk-1819-516x680.png"
+                    },
+                    {
+                        "kit_id": 902579,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2018/19 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/11/08/7d5db3f3-f497-448f-b929-dddc9416c3ea/burnley-ak-1819-516x680.png"
+                    },
+                    {
+                        "kit_id": 902580,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2018/19 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/11/08/c49a7347-1e39-4a14-87ad-4ebd56148609/burnley-tk-1819-516x680.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 79,
+                "season_year": "2017/18",
+                "season_kits": [
+                    {
+                        "kit_id": 609613,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2017/18 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/55eacad6-3801-4dc4-902e-9a61b79a17ae/nbRWKsGl.png"
+                    },
+                    {
+                        "kit_id": 609612,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2017/18 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/061411fb-6642-4ac4-bef4-5e4c43747ffc/VoaRiiST.png"
+                    },
+                    {
+                        "kit_id": 609614,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2017/18 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/0dcaf389-1401-42e3-b92a-9b9c0bb789ef/cMjjLwqE.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 54,
+                "season_year": "2016/17",
+                "season_kits": [
+                    {
+                        "kit_id": 609543,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2016/17 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/87432317-24e2-4b1b-86df-7b80add34af4/TUUxZEdT.png"
+                    },
+                    {
+                        "kit_id": 609541,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2016/17 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/5ffae50d-9409-4e48-aa74-803820772e84/pbAmboln.png"
+                    },
+                    {
+                        "kit_id": 609545,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2016/17 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/e4e467a3-b113-4f8a-abaf-12d7b769cbf9/ZxiERAod.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 27,
+                "season_year": "2014/15",
+                "season_kits": [
+                    {
+                        "kit_id": 609441,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2014/15 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/2fb920cd-9c7d-4284-8e0e-055a40e6df1e/LRMcXHtM.png"
+                    },
+                    {
+                        "kit_id": 609440,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2014/15 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/fe02e809-ae59-49a1-92f1-02bfa287fcfc/XAZFMwGh.png"
+                    },
+                    {
+                        "kit_id": 608830,
+                        "kit_type": "third",
+                        "kit_name": "Burnley 2014/15 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/2416fcb3-e4a4-4ce2-9d9a-1acb2fe4e692/nWTfwssZ.png"
+                    }
+                ]
+            },
+            {
+                "season_id": 18,
+                "season_year": "2009/10",
+                "season_kits": [
+                    {
+                        "kit_id": 609243,
+                        "kit_type": "home",
+                        "kit_name": "Burnley 2009/10 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/1ea39a66-7ea1-4585-b4e6-96e1158f3f95/xFcisexz.png"
+                    },
+                    {
+                        "kit_id": 609242,
+                        "kit_type": "away",
+                        "kit_name": "Burnley 2009/10 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/2c675537-f4bb-408c-97fb-8352e63481b3/ubmeiBdd.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "club_id": 4,
         "club_name": "Chelsea",
         "club_fpl_name": "Chelsea",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644382,
+                        "kit_type": "home",
+                        "kit_name": "Chelsea 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/4acb2a6d-ca31-48d5-b43b-316395fcaaa3/CHE_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3663150,
+                        "kit_type": "away",
+                        "kit_name": "Chelsea 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/31/639eadf8-9e81-4f80-9ef9-65f2d7acf848/CHE_2324_AK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
@@ -2129,6 +2484,30 @@
         "club_fpl_name": "Crystal Palace",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644385,
+                        "kit_type": "home",
+                        "kit_name": "Crystal Palace 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/83875bf5-9ef7-4fc4-b011-99a893d60f8d/CRY_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644383,
+                        "kit_type": "away",
+                        "kit_name": "Crystal Palace 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/93575703-7c23-4fdc-bb30-dfc9ee9b5497/CRY_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644384,
+                        "kit_type": "third",
+                        "kit_name": "Crystal Palace 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/97d1515c-2f49-4dc9-887e-e7f38e96850e/CRY_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -2423,6 +2802,30 @@
         "club_name": "Everton",
         "club_fpl_name": "Everton",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644391,
+                        "kit_type": "home",
+                        "kit_name": "Everton 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/5090ee91-b024-4c55-8c8c-b8af48606c0d/EVE_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644390,
+                        "kit_type": "away",
+                        "kit_name": "Everton 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/d0b11cd1-8fb4-44c0-8a5d-d3615d1b630f/EVE_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3663151,
+                        "kit_type": "third",
+                        "kit_name": "Everton 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/31/39520152-1a57-4f5c-a3c7-1e7f3856ae8b/EVE_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
@@ -3043,6 +3446,24 @@
         "club_fpl_name": "Fulham",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3645433,
+                        "kit_type": "home",
+                        "kit_name": "Fulham 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/21/0fc51bc0-e7e5-4059-b043-1e84d3dc7592/FUL_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3645435,
+                        "kit_type": "away",
+                        "kit_name": "Fulham 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/21/8a99a26f-b48e-4287-8437-baaa62ba79a0/FUL_2324_AK_PL_S1-1-.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -3351,672 +3772,34 @@
         ]
     },
     {
-        "club_id": 9,
-        "club_name": "Leeds United",
-        "club_fpl_name": "Leeds",
-        "seasons": [
-            {
-                "season_id": 489,
-                "season_year": "2022/23",
-                "season_kits": [
-                    {
-                        "kit_id": 2677823,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 2022/23 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/07/14/27e25698-c64c-4df5-8d2f-4eac2493c50f/LEE_2223_HK_PL_S1.png"
-                    },
-                    {
-                        "kit_id": 2723769,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 2022/23 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/08/06/dd42f16b-eeed-485a-9976-59966c43b15a/LEE_2223_AK_PL_S1.png"
-                    },
-                    {
-                        "kit_id": 2761380,
-                        "kit_type": "third",
-                        "kit_name": "Leeds United 2022/23 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/08/26/ddf1c8fb-3cd7-4162-ab2c-ab206287d5a9/LEE_2223_TK_PL_S1.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 418,
-                "season_year": "2021/22",
-                "season_kits": [
-                    {
-                        "kit_id": 2195236,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 2021/22 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2021/07/22/3fcb0f71-9845-4c2c-8f70-66857609027f/MicrosoftTeams-image-100-.png"
-                    },
-                    {
-                        "kit_id": 2202510,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 2021/22 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2021/07/30/04dfa09a-9cc9-410b-97ae-728ca1a9e701/LEE_2122_AK_PL_S1.png"
-                    },
-                    {
-                        "kit_id": 2247242,
-                        "kit_type": "third",
-                        "kit_name": "Leeds United 2021/22 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2021/09/09/ead3b149-73c0-43ee-9df8-3f0e133495f0/LEE_2122_TK_PL_S1.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 363,
-                "season_year": "2020/21",
-                "season_kits": [
-                    {
-                        "kit_id": 1782263,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 2020/21 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/26/b403f312-de9b-4288-a28a-6e34f8b9f41a/LEE_HK_516_2020_21-1-.png"
-                    },
-                    {
-                        "kit_id": 1809166,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 2020/21 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/09/04/60632706-d44b-48da-acd2-f94773a2df3b/LEE_AK_516_2020_21.png"
-                    },
-                    {
-                        "kit_id": 1849008,
-                        "kit_type": "third",
-                        "kit_name": "Leeds United 2020/21 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/09/30/4991db6b-1dbc-4ca9-998c-268986086c68/LEE_TK_516_2020_21-1-.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 12,
-                "season_year": "2003/04",
-                "season_kits": [
-                    {
-                        "kit_id": 609000,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 2003/04 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/7bce1aa8-f4ad-42b9-a1c8-2dcaeba8ede2/ozKCDOBq.png"
-                    },
-                    {
-                        "kit_id": 608999,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 2003/04 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/98da2ee6-f524-4b43-b1f0-132a5604eecc/tpjsDRYs.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 11,
-                "season_year": "2002/03",
-                "season_kits": [
-                    {
-                        "kit_id": 608960,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 2002/03 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/2aacc50b-0bff-48c6-8008-82925f92164f/WVaXowJR.png"
-                    },
-                    {
-                        "kit_id": 608959,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 2002/03 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ef5f53e6-81da-41b0-a8c7-cb669e427c6c/vHQGkaKQ.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 10,
-                "season_year": "2001/02",
-                "season_kits": [
-                    {
-                        "kit_id": 608921,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 2001/02 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ee4e4313-c95c-461d-ac30-b23b0bec22d0/wDHoDjuR.png"
-                    },
-                    {
-                        "kit_id": 608920,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 2001/02 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/3d61c487-66fa-43ac-94ec-5badecd7bebd/qPjtolXm.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 9,
-                "season_year": "2000/01",
-                "season_kits": [
-                    {
-                        "kit_id": 608879,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 2000/01 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/113edfe9-9880-4db1-9f9f-6df836086ea4/WAzxtJsS.png"
-                    },
-                    {
-                        "kit_id": 608878,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 2000/01 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/25412f4c-60ca-4aa4-95dd-76c3c4adda24/FQOsruQE.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 8,
-                "season_year": "1999/00",
-                "season_kits": [
-                    {
-                        "kit_id": 610000,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1999/00 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/53089ff5-a13d-45aa-93f3-8d3d6ba714dd/GZzPkOnT.png"
-                    },
-                    {
-                        "kit_id": 609999,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1999/00 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ae45c94f-6014-4f5c-bcfb-e7bfcacf5990/ZrHneEHT.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 7,
-                "season_year": "1998/99",
-                "season_kits": [
-                    {
-                        "kit_id": 609956,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1998/99 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/afe86f0f-4e1f-4ce1-90ee-6d3b26cbfc01/YyUjQLWf.png"
-                    },
-                    {
-                        "kit_id": 609955,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1998/99 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/4ce8232d-39ce-4fc5-bfac-5a37f5d8c07f/HcLPeSTa.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 6,
-                "season_year": "1997/98",
-                "season_kits": [
-                    {
-                        "kit_id": 609919,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1997/98 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/f7607eae-2e76-402c-b757-8a71a115e34b/syRiZUBw.png"
-                    },
-                    {
-                        "kit_id": 609918,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1997/98 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/f2a2454a-00e3-4dc4-9fc9-b71eda15ecd4/yPpDtzKe.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 5,
-                "season_year": "1996/97",
-                "season_kits": [
-                    {
-                        "kit_id": 609873,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1996/97 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/f1abe5ab-11a5-4be8-af1a-14d8147e216e/JSaEbXgu.png"
-                    },
-                    {
-                        "kit_id": 609871,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1996/97 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/591b2c2e-61fd-47f6-8d24-2a4130423fb5/tFfkfinl.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 4,
-                "season_year": "1995/96",
-                "season_kits": [
-                    {
-                        "kit_id": 609822,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1995/96 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/55885ba9-8719-4162-899f-96893c329a99/HmwxxBFr.png"
-                    },
-                    {
-                        "kit_id": 609821,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1995/96 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/130f323d-acee-40c1-a4f4-60a43a8b897a/qUTKXREl.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 3,
-                "season_year": "1994/95",
-                "season_kits": [
-                    {
-                        "kit_id": 609780,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1994/95 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/1b45f8cc-27d2-4ee8-a353-bff477097fab/ovZLwmkE.png"
-                    },
-                    {
-                        "kit_id": 609779,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1994/95 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/26bf213b-309a-44e3-9350-d739c69dbd26/SLPNSICJ.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 2,
-                "season_year": "1993/94",
-                "season_kits": [
-                    {
-                        "kit_id": 609730,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1993/94 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/fa0704d3-922e-466f-b1c0-9d4455a55a08/NOgbuyxL.png"
-                    },
-                    {
-                        "kit_id": 609729,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1993/94 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/4608ee30-7e9a-49ad-9994-5aaec1e87bf2/pKEXinsG.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 1,
-                "season_year": "1992/93",
-                "season_kits": [
-                    {
-                        "kit_id": 609681,
-                        "kit_type": "home",
-                        "kit_name": "Leeds United 1992/93 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/21854f29-dbc4-4cda-8d56-82c59f626b65/ejzlJMDP.png"
-                    },
-                    {
-                        "kit_id": 609680,
-                        "kit_type": "away",
-                        "kit_name": "Leeds United 1992/93 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/b77c2fe0-eb76-4d60-94f9-809ea07caaab/hNOpbzJf.png"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "club_id": 26,
-        "club_name": "Leicester City",
-        "club_fpl_name": "Leicester",
-        "seasons": [
-            {
-                "season_id": 489,
-                "season_year": "2022/23",
-                "season_kits": [
-                    {
-                        "kit_id": 2664627,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2022/23 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/07/01/957174e6-0c62-46e7-a1eb-b64386128b97/LEI_2223_HK_PL_S1.png"
-                    },
-                    {
-                        "kit_id": 2760596,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2022/23 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/08/26/d86b0153-d89d-4673-8ed3-7d10b6ae7886/LEI_2223_AK_PL_S1.png"
-                    },
-                    {
-                        "kit_id": 2723911,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2022/23 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/08/06/3babe042-f85b-4238-bc48-ff1e6d5d95ca/LEI_2223_TK_PL_S1.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 418,
-                "season_year": "2021/22",
-                "season_kits": [
-                    {
-                        "kit_id": 2168888,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2021/22 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2021/06/10/88280d8c-9413-4cde-b052-78340ea8c04c/LEI_HK_516_2021_22.png"
-                    },
-                    {
-                        "kit_id": 2202490,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2021/22 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2021/07/30/1966fe0d-a019-4862-86ab-a19e032f4fa4/LEI_2122_AK_PL_S1.png"
-                    },
-                    {
-                        "kit_id": 3016125,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2021/22 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2023/01/11/6f958991-984c-403b-b458-941149b81525/LEI-TK-516x680.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 363,
-                "season_year": "2020/21",
-                "season_kits": [
-                    {
-                        "kit_id": 1747367,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2020/21 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/03/b2feeac5-6c85-436c-a988-d64d393249ec/LEI_HK_516_2020_21.png"
-                    },
-                    {
-                        "kit_id": 1784546,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2020/21 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/27/a807c8b9-18be-4bcf-807c-acfc61906db5/LEI_AK_516_2020_21.png"
-                    },
-                    {
-                        "kit_id": 1782261,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2020/21 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/26/a645ac0e-4da5-433c-a1d9-657a88847596/LEI_TK_516_2020_21.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 274,
-                "season_year": "2019/20",
-                "season_kits": [
-                    {
-                        "kit_id": 1277437,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2019/20 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2019/07/11/422d6835-0225-4459-a372-8d017903f28b/LEI_HK_516.png"
-                    },
-                    {
-                        "kit_id": 1251653,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2019/20 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2019/06/20/321fe9f8-85b5-4b9f-bcdc-bedd94651213/LEI_AK_516.png"
-                    },
-                    {
-                        "kit_id": 1251656,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2019/20 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2019/06/20/12c5bdb5-6857-42ea-b0a7-d6b71bbb21d9/LEI_TK_516.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 210,
-                "season_year": "2018/19",
-                "season_kits": [
-                    {
-                        "kit_id": 829240,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2018/19 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/08/23/a4063319-ad20-4c3f-bd15-0b564165c0dc/Leicester-hk-1819-516x680-3-.png"
-                    },
-                    {
-                        "kit_id": 829252,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2018/19 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/08/23/acaae8c2-63d2-4e4d-b2da-2c26317e6176/leicester-ak-1819-516x680-1-.png"
-                    },
-                    {
-                        "kit_id": 829253,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2018/19 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/08/23/e87b7f7b-fb3d-4c9d-945d-70d73562aeaa/leicester-tk-1819-516x690-1-.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 79,
-                "season_year": "2017/18",
-                "season_kits": [
-                    {
-                        "kit_id": 609629,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2017/18 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/589a862c-193b-47ab-9509-02bd9a7f03e9/AVpdesmf.png"
-                    },
-                    {
-                        "kit_id": 609627,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2017/18 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ee2395e2-86a0-4d64-ba3f-bfb4ddad36dd/ngsjeNcq.png"
-                    },
-                    {
-                        "kit_id": 609630,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2017/18 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/67d99ba7-4f36-4663-961b-0dc775f3be82/wijEMLtW.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 54,
-                "season_year": "2016/17",
-                "season_kits": [
-                    {
-                        "kit_id": 609560,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2016/17 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/888d9808-6b47-4d94-887b-8280656aee01/DRUGFhLS.png"
-                    },
-                    {
-                        "kit_id": 609559,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2016/17 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/cac027ab-5041-4ac4-9f6b-7fe6e04c555e/NoTIpkjc.png"
-                    },
-                    {
-                        "kit_id": 609562,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2016/17 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/4848cccd-27e2-4526-83a2-80b9f00489cd/MKWmArlb.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 42,
-                "season_year": "2015/16",
-                "season_kits": [
-                    {
-                        "kit_id": 609490,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2015/16 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/691e8c47-b73a-4441-b8ec-2fe039c0af34/YGYCJJBt.png"
-                    },
-                    {
-                        "kit_id": 609489,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2015/16 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/3f53fd81-decc-4546-88bc-16796bc80e13/xmeJzaJf.png"
-                    },
-                    {
-                        "kit_id": 608849,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2015/16 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/9055b272-9138-4e23-9ae4-edfdf9d3f444/inuomxDr.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 27,
-                "season_year": "2014/15",
-                "season_kits": [
-                    {
-                        "kit_id": 609452,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2014/15 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/625863b8-81b5-4e41-bf6a-d2f04d0a18d0/tlqZGqnE.png"
-                    },
-                    {
-                        "kit_id": 609451,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2014/15 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/8d73d3fa-981d-4cfc-8980-0dd930d144b7/RCVjxKeH.png"
-                    },
-                    {
-                        "kit_id": 608834,
-                        "kit_type": "third",
-                        "kit_name": "Leicester City 2014/15 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/004d7e6a-c5c4-48e0-81e8-4d11f4d0d5d7/fugpKsTg.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 12,
-                "season_year": "2003/04",
-                "season_kits": [
-                    {
-                        "kit_id": 609002,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2003/04 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/3694d085-0f9a-496e-bb86-a8a48f26766d/gxyGUfsJ.png"
-                    },
-                    {
-                        "kit_id": 609001,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2003/04 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/1366705e-27b5-4ef4-a96a-e645adb6678f/qyMShlam.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 10,
-                "season_year": "2001/02",
-                "season_kits": [
-                    {
-                        "kit_id": 608923,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2001/02 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/93f49baa-6617-471d-a0cb-1b33d8a52438/azAqxFfq.png"
-                    },
-                    {
-                        "kit_id": 608922,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2001/02 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/3f053048-f8b7-4c6a-8b9c-43893948be97/QpnwsTaF.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 9,
-                "season_year": "2000/01",
-                "season_kits": [
-                    {
-                        "kit_id": 608881,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 2000/01 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/b286bf0e-ca79-44d5-acca-56a2adfacd86/XNQkZJzM.png"
-                    },
-                    {
-                        "kit_id": 608880,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 2000/01 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ffef73dd-eeef-4d30-81b1-4ebc6fa56f55/OudYzyby.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 8,
-                "season_year": "1999/00",
-                "season_kits": [
-                    {
-                        "kit_id": 610002,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 1999/00 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/5742f5aa-312b-4c88-81fd-30f4c8db4bc0/ChvZMVby.png"
-                    },
-                    {
-                        "kit_id": 610001,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 1999/00 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/f6eef78d-d9f3-4251-b176-98fbebb8fe34/RSmisGQd.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 7,
-                "season_year": "1998/99",
-                "season_kits": [
-                    {
-                        "kit_id": 609958,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 1998/99 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/6750a933-38f6-4980-aed0-74b4a750532e/GkSeGDBI.png"
-                    },
-                    {
-                        "kit_id": 609957,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 1998/99 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/0fdc123d-793b-464f-8c03-4d2d95402dd6/VeVRdAuR.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 6,
-                "season_year": "1997/98",
-                "season_kits": [
-                    {
-                        "kit_id": 609921,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 1997/98 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/1ea9c967-c9d4-41f8-bfa9-d45589190121/aizryIZV.png"
-                    },
-                    {
-                        "kit_id": 609920,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 1997/98 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ccb83433-9f93-4e19-8727-0747513541d7/OplmPZkf.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 5,
-                "season_year": "1996/97",
-                "season_kits": [
-                    {
-                        "kit_id": 609875,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 1996/97 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/407ec8a1-303a-4486-8063-f2684aaa0d56/fMfdSUSZ.png"
-                    },
-                    {
-                        "kit_id": 609874,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 1996/97 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/a9fdc228-eb15-4c4b-97c5-167f353bf576/lNxJSkFb.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 3,
-                "season_year": "1994/95",
-                "season_kits": [
-                    {
-                        "kit_id": 609782,
-                        "kit_type": "home",
-                        "kit_name": "Leicester City 1994/95 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/62c111cd-f880-4adc-a327-a0d6494f6808/ktocqAKr.png"
-                    },
-                    {
-                        "kit_id": 609781,
-                        "kit_type": "away",
-                        "kit_name": "Leicester City 1994/95 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/9ea744dc-1164-4077-9323-24964efe5c9a/fgMHGnPg.png"
-                    }
-                ]
-            }
-        ]
-    },
-    {
         "club_id": 10,
         "club_name": "Liverpool",
         "club_fpl_name": "Liverpool",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644476,
+                        "kit_type": "home",
+                        "kit_name": "Liverpool 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/4bd336bd-9719-40d7-b4bd-3b767c63809c/LIV_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644478,
+                        "kit_type": "away",
+                        "kit_name": "Liverpool 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/362ca7fd-78eb-44cf-bec1-5998d1bebadc/LIV_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644477,
+                        "kit_type": "third",
+                        "kit_name": "Liverpool 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/067b3c9c-076c-4604-b488-862b4beb026c/LIV_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
@@ -4632,10 +4415,59 @@
         ]
     },
     {
+        "club_id": 163,
+        "club_name": "Luton Town",
+        "club_fpl_name": "Luton",
+        "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644499,
+                        "kit_type": "home",
+                        "kit_name": "Luton Town 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/5a45bd9c-412c-485e-9ea1-3438eae4c952/LUT_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644500,
+                        "kit_type": "third",
+                        "kit_name": "Luton Town 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/774a9b77-2a3c-4a03-a782-f6761b8c6910/LUT_2324_TK_PL_S1.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "club_id": 11,
         "club_name": "Manchester City",
         "club_fpl_name": "Man City",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644513,
+                        "kit_type": "home",
+                        "kit_name": "Manchester City 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/205fc2bd-3bb9-4239-8e49-b87647cb9e0b/MCI_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644514,
+                        "kit_type": "away",
+                        "kit_name": "Manchester City 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/b0f8b8bf-7538-41b2-8695-c1cde772f53e/MCI_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644515,
+                        "kit_type": "third",
+                        "kit_name": "Manchester City 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/663ea6d6-3fe9-4852-a0d0-0818fff4a454/MCI_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
@@ -5165,6 +4997,30 @@
         "club_name": "Manchester United",
         "club_fpl_name": "Man Utd",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644543,
+                        "kit_type": "home",
+                        "kit_name": "Manchester United 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/25e8c2d0-b14f-4a3b-9e6f-cc8410b906c0/MUN_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644544,
+                        "kit_type": "away",
+                        "kit_name": "Manchester United 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/7f6abc6f-07f8-4625-a27d-6565a9a991c4/MUN_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644542,
+                        "kit_type": "third",
+                        "kit_name": "Manchester United 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/04f91325-187c-4e22-8222-a0546e0ece78/MUN_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
@@ -5785,6 +5641,30 @@
         "club_fpl_name": "Newcastle",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644681,
+                        "kit_type": "home",
+                        "kit_name": "Newcastle United 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/ec93272d-9e11-457c-830a-4cb9afcd6c35/NEW_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644682,
+                        "kit_type": "away",
+                        "kit_name": "Newcastle United 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/07b789ec-3667-48f4-9209-d8a1a2673b9a/NEW_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644683,
+                        "kit_type": "third",
+                        "kit_name": "Newcastle United 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/aa86c681-0259-4d59-99c1-786527a27a15/NEW_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -6344,6 +6224,30 @@
         "club_fpl_name": "Nott'm Forest",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3663147,
+                        "kit_type": "home",
+                        "kit_name": "Nottingham Forest 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/31/4c5c83f5-f93a-40ac-9319-6653faebbc77/NFO_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3663146,
+                        "kit_type": "away",
+                        "kit_name": "Nottingham Forest 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/31/e56bbe36-a9ab-42ac-92b4-b6e1443fd66d/NFO_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3663148,
+                        "kit_type": "third",
+                        "kit_name": "Nottingham Forest 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/31/94cf8450-cf01-4f3a-b0de-6f0fd93dffc1/NFO_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -6460,55 +6364,31 @@
         ]
     },
     {
-        "club_id": 20,
-        "club_name": "Southampton",
-        "club_fpl_name": "Southampton",
+        "club_id": 18,
+        "club_name": "Sheffield United",
+        "club_fpl_name": "Sheffield Utd",
         "seasons": [
             {
-                "season_id": 489,
-                "season_year": "2022/23",
+                "season_id": 578,
+                "season_year": "2023/24",
                 "season_kits": [
                     {
-                        "kit_id": 2663344,
+                        "kit_id": 3644700,
                         "kit_type": "home",
-                        "kit_name": "Southampton 2022/23 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/08/06/0d26af3e-128c-4391-863f-2addcb6e1ebe/SOU_2223_HK_PL_S1.png"
+                        "kit_name": "Sheffield United 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/2a753c8c-eb8b-434e-9113-0e2d50132cab/SHU_2324_HK_PL_S1.png"
                     },
                     {
-                        "kit_id": 2686925,
+                        "kit_id": 3644699,
                         "kit_type": "away",
-                        "kit_name": "Southampton 2022/23 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/08/06/4b8780f8-a6dd-495b-ad8c-113f07a9495e/SOU_2223_AK_PL_S1.png"
+                        "kit_name": "Sheffield United 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/2c53e167-aa01-46e0-b241-73ae2582b8ca/SHU_2324_AK_PL_S1.png"
                     },
                     {
-                        "kit_id": 2724348,
+                        "kit_id": 3644698,
                         "kit_type": "third",
-                        "kit_name": "Southampton 2022/23 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2022/08/06/87cd2401-abb3-4f5e-ba1d-65f18bfbcef2/SOU_2223_TK_PL_S1.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 418,
-                "season_year": "2021/22",
-                "season_kits": [
-                    {
-                        "kit_id": 3016136,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2021/22 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2023/01/11/c2e3ea08-6655-4e85-83a3-ecbcdb7c2901/SOU-HK-516x680.png"
-                    },
-                    {
-                        "kit_id": 3016134,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2021/22 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2023/01/11/545d9d63-fa18-420e-8da4-ca72e4d77fc6/SOU-AK-516x680.png"
-                    },
-                    {
-                        "kit_id": 2189785,
-                        "kit_type": "third",
-                        "kit_name": "Southampton 2021/22 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2021/07/14/07051fe4-9950-4318-82b9-1190670994da/MicrosoftTeams-image-84-.png"
+                        "kit_name": "Sheffield United 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/cb8c023e-4e94-4de7-917e-590019d7635b/SHU_2324_TK_PL_S1.png"
                     }
                 ]
             },
@@ -6517,22 +6397,22 @@
                 "season_year": "2020/21",
                 "season_kits": [
                     {
-                        "kit_id": 1776635,
+                        "kit_id": 1748110,
                         "kit_type": "home",
-                        "kit_name": "Southampton 2020/21 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/25/0d2c0d22-18ce-4e5b-81cf-6e5466826614/SOU_HK_516_2020_21-1-.png"
+                        "kit_name": "Sheffield United 2020/21 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/04/3d822659-f1c5-4018-bb8f-288dd778f44d/SHU_HK_516_2020_21.png"
                     },
                     {
-                        "kit_id": 1776638,
+                        "kit_id": 1757961,
                         "kit_type": "away",
-                        "kit_name": "Southampton 2020/21 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/25/af6c1be1-ecff-47f8-b8c0-e2ca0efb5ab2/SOU_AK_516_2020_21.png"
+                        "kit_name": "Sheffield United 2020/21 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/21/734c9552-af64-4e64-a434-48d0bf98ccc9/SHU_AK_516_2020_21.png"
                     },
                     {
-                        "kit_id": 1776636,
+                        "kit_id": 1856824,
                         "kit_type": "third",
-                        "kit_name": "Southampton 2020/21 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2020/08/25/edd01559-d13a-4b16-99df-0feafda97883/SOU_TK_516_2020_21-1-.png"
+                        "kit_name": "Sheffield United 2020/21 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2020/10/05/7b760cca-c9d7-4159-b75f-78fc6ef2fb04/SHU_TK_516_2020_21.png"
                     }
                 ]
             },
@@ -6541,364 +6421,34 @@
                 "season_year": "2019/20",
                 "season_kits": [
                     {
-                        "kit_id": 1251663,
+                        "kit_id": 1264092,
                         "kit_type": "home",
-                        "kit_name": "Southampton 2019/20 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2019/06/20/1b72bec6-7de4-4922-830c-6c823a79b182/SOU_HK_516.png"
+                        "kit_name": "Sheffield United 2019/20 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2019/07/04/2488c04e-d01b-40a5-9f15-19f96597975b/SHE_HK_516.png"
                     },
                     {
-                        "kit_id": 1251664,
+                        "kit_id": 1297654,
                         "kit_type": "away",
-                        "kit_name": "Southampton 2019/20 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2019/06/20/78f062fd-e8d4-49e1-935e-aabb785434c4/SOU_AK_516.png"
-                    },
-                    {
-                        "kit_id": 1297655,
-                        "kit_type": "third",
-                        "kit_name": "Southampton 2019/20 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/2019/07/30/58dd5903-52db-4258-abca-8a6edb9582c1/SOU_TK_516-1-.png"
+                        "kit_name": "Sheffield United 2019/20 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2019/07/30/b01a81d0-a041-46a4-8a1e-342bd5e4052e/SHE_AK_516.png"
                     }
                 ]
             },
             {
-                "season_id": 210,
-                "season_year": "2018/19",
+                "season_id": 15,
+                "season_year": "2006/07",
                 "season_kits": [
                     {
-                        "kit_id": 790315,
+                        "kit_id": 609133,
                         "kit_type": "home",
-                        "kit_name": "Southampton 2018/19 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/07/31/45aa7288-6a9d-4012-a67a-8d5dd7cfe882/southampton-hk-1819-516x680-3-.png"
+                        "kit_name": "Sheffield United 2006/07 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/2595f603-1af6-4602-8c18-71df977d7d46/RojjmZzo.png"
                     },
                     {
-                        "kit_id": 790316,
+                        "kit_id": 609132,
                         "kit_type": "away",
-                        "kit_name": "Southampton 2018/19 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/07/31/603a887e-a99e-4c7c-9f4c-d892cbdcb2cb/southampton-ak-1819-516x680-2-.png"
-                    },
-                    {
-                        "kit_id": 794572,
-                        "kit_type": "third",
-                        "kit_name": "Southampton 2018/19 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/08/03/59c24617-5923-4517-a9e2-15b42e10231f/southampton-tk-1819-516x690.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 79,
-                "season_year": "2017/18",
-                "season_kits": [
-                    {
-                        "kit_id": 609644,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2017/18 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/33781cdc-3421-45e8-b0ae-688322a6c668/dcHvIdJY.png"
-                    },
-                    {
-                        "kit_id": 609643,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2017/18 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/12272b61-3e0a-4ce9-a22a-bef1d223d91b/WdYOggqa.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 54,
-                "season_year": "2016/17",
-                "season_kits": [
-                    {
-                        "kit_id": 609584,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2016/17 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/20d020c4-18cb-4d3e-bc2b-4387b22a4373/PQcoxJGM.png"
-                    },
-                    {
-                        "kit_id": 609582,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2016/17 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/8b2d7b71-b9b7-4e2f-8fe5-c75016d27746/OvTpWgDj.png"
-                    },
-                    {
-                        "kit_id": 609585,
-                        "kit_type": "third",
-                        "kit_name": "Southampton 2016/17 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/e49ecf6b-b18c-4519-8172-e587bea548aa/LGNzHjhA.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 42,
-                "season_year": "2015/16",
-                "season_kits": [
-                    {
-                        "kit_id": 609507,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2015/16 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/cb21e488-5d14-402a-8370-a8333f164922/tfQljRaJ.png"
-                    },
-                    {
-                        "kit_id": 609505,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2015/16 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/77d55ab0-40bf-422c-b49a-ad433a504161/QbLpMmfE.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 27,
-                "season_year": "2014/15",
-                "season_kits": [
-                    {
-                        "kit_id": 609464,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2014/15 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/e45e5792-71da-4a40-b58e-f20c2bc1155f/ISiTZtpK.png"
-                    },
-                    {
-                        "kit_id": 609463,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2014/15 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/9ada5158-8494-409e-ac60-ea56255c4c65/heowWXzh.png"
-                    },
-                    {
-                        "kit_id": 608841,
-                        "kit_type": "third",
-                        "kit_name": "Southampton 2014/15 Third Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/9acaaf56-6d19-4c7a-afd4-9bac448c94fd/BGzuFXqT.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 22,
-                "season_year": "2013/14",
-                "season_kits": [
-                    {
-                        "kit_id": 609423,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2013/14 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/71d5263d-4408-477f-96e4-6032c43a4532/bDtWhVFq.png"
-                    },
-                    {
-                        "kit_id": 609422,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2013/14 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ed3be42f-2429-47a9-a92d-b3985a7e90bd/BoISBxWc.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 21,
-                "season_year": "2012/13",
-                "season_kits": [
-                    {
-                        "kit_id": 609381,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2012/13 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/77047e14-05ea-445b-8617-20faa4507cea/LOEYptyu.png"
-                    },
-                    {
-                        "kit_id": 609380,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2012/13 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/3c56f1b5-4e9a-460b-abff-733aa5a05b34/nXbOCgnn.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 13,
-                "season_year": "2004/05",
-                "season_kits": [
-                    {
-                        "kit_id": 609057,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2004/05 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/f1f57bbe-4244-4d1b-82b7-3c70a67b9b5b/cZgXARFJ.png"
-                    },
-                    {
-                        "kit_id": 609056,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2004/05 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/8be363d6-8831-4275-b5d2-aea8d221b5a7/qsGOYMRj.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 12,
-                "season_year": "2003/04",
-                "season_kits": [
-                    {
-                        "kit_id": 609017,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2003/04 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/f2d7ed4f-1c79-4f59-8570-db01464771a7/kfRAKNkL.png"
-                    },
-                    {
-                        "kit_id": 609016,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2003/04 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/7e54d69f-7766-4c4f-9e42-aad9ecae5c47/pPOfRCcv.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 11,
-                "season_year": "2002/03",
-                "season_kits": [
-                    {
-                        "kit_id": 608972,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2002/03 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ef7a2957-f8cf-4b9a-88d3-0a18be966d89/HwzrDnlS.png"
-                    },
-                    {
-                        "kit_id": 608971,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2002/03 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/99d3cb6e-2d94-4dfc-91ec-49ad39245304/dyDMRuak.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 10,
-                "season_year": "2001/02",
-                "season_kits": [
-                    {
-                        "kit_id": 608933,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2001/02 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ef14711b-f0ae-47b0-89b1-43bc263111c0/lhLMFcgN.png"
-                    },
-                    {
-                        "kit_id": 608932,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2001/02 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/e15970d9-1517-44b0-8e5d-c1bb7829e256/ibdtcTAQ.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 9,
-                "season_year": "2000/01",
-                "season_kits": [
-                    {
-                        "kit_id": 608893,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 2000/01 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/3a8d64c8-11cb-4b44-b1e3-36e73d5f8638/mwmYGuJQ.png"
-                    },
-                    {
-                        "kit_id": 608892,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 2000/01 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/4987da07-45ab-42c7-aff9-eda8e4e8cb3d/HRRDntDD.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 8,
-                "season_year": "1999/00",
-                "season_kits": [
-                    {
-                        "kit_id": 610014,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 1999/00 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/69a5d7ec-6111-43f2-a242-84064116b1d1/YlaUTMcc.png"
-                    },
-                    {
-                        "kit_id": 610013,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 1999/00 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/49c5eb5e-0d5f-4322-8dd9-c372c3113225/DOUJMJBk.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 7,
-                "season_year": "1998/99",
-                "season_kits": [
-                    {
-                        "kit_id": 609975,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 1998/99 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/770fe8e7-6c8b-4571-a555-f33624f93999/xhmUObHt.png"
-                    },
-                    {
-                        "kit_id": 609972,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 1998/99 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/ef8e283a-38a4-490e-ba6e-9150471d60e7/toVeZsqy.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 6,
-                "season_year": "1997/98",
-                "season_kits": [
-                    {
-                        "kit_id": 609931,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 1997/98 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/5683b668-9389-4de6-b0b1-fb2ad87efe42/SjouQTZg.png"
-                    },
-                    {
-                        "kit_id": 609930,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 1997/98 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/e153bf2d-74dd-4671-94e2-780d2da67c9f/RIRjQokR.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 5,
-                "season_year": "1996/97",
-                "season_kits": [
-                    {
-                        "kit_id": 609889,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 1996/97 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/e98a6282-a155-4983-bb80-94b69b468112/FbjqOnRT.png"
-                    },
-                    {
-                        "kit_id": 609888,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 1996/97 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/98255fa2-773b-4a66-afbb-67e2191815e0/YdnTqwAj.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 4,
-                "season_year": "1995/96",
-                "season_kits": [
-                    {
-                        "kit_id": 609845,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 1995/96 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/df99da49-05f5-4684-b9aa-df9c7f6ae753/LiuaQiXQ.png"
-                    },
-                    {
-                        "kit_id": 609844,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 1995/96 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/cfdc9cfa-1565-4e52-a78a-37c1508fc8e6/lfcFKMTS.png"
-                    }
-                ]
-            },
-            {
-                "season_id": 3,
-                "season_year": "1994/95",
-                "season_kits": [
-                    {
-                        "kit_id": 609800,
-                        "kit_type": "home",
-                        "kit_name": "Southampton 1994/95 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/3ea6d6c2-d21a-4369-bba9-f6535197b92e/IlYEJPSs.png"
-                    },
-                    {
-                        "kit_id": 609799,
-                        "kit_type": "away",
-                        "kit_name": "Southampton 1994/95 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/4e9c2b68-f2a4-41ce-bc2a-93725641d5a8/EwmTQoTJ.png"
+                        "kit_name": "Sheffield United 2006/07 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/b929a72d-5798-4149-b168-a97c6e9034f5/QjXHKkqx.png"
                     }
                 ]
             },
@@ -6907,16 +6457,16 @@
                 "season_year": "1993/94",
                 "season_kits": [
                     {
-                        "kit_id": 609751,
+                        "kit_id": 609747,
                         "kit_type": "home",
-                        "kit_name": "Southampton 1993/94 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/a16bb859-c541-4509-9792-fbc0a38ea5cc/gtZWbxOq.png"
+                        "kit_name": "Sheffield United 1993/94 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/d7a17dcb-6f0f-4b89-8f1a-d2bfae5089ed/TerUuUBt.png"
                     },
                     {
-                        "kit_id": 609750,
+                        "kit_id": 609746,
                         "kit_type": "away",
-                        "kit_name": "Southampton 1993/94 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/35451bbe-20e1-40b6-8514-45424b6833d9/KpHPMIiR.png"
+                        "kit_name": "Sheffield United 1993/94 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/c827fab4-6474-416f-9f37-68ece1da6cb9/kYvfSHnM.png"
                     }
                 ]
             },
@@ -6925,16 +6475,16 @@
                 "season_year": "1992/93",
                 "season_kits": [
                     {
-                        "kit_id": 609704,
+                        "kit_id": 609699,
                         "kit_type": "home",
-                        "kit_name": "Southampton 1992/93 Home Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/6083b9d9-3323-472c-a1a8-8e8c799532be/QoPrvsuU.png"
+                        "kit_name": "Sheffield United 1992/93 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/646bb854-acc0-4f6b-9fff-348b5293a0b6/DRnFLqgA.png"
                     },
                     {
-                        "kit_id": 609703,
+                        "kit_id": 609698,
                         "kit_type": "away",
-                        "kit_name": "Southampton 1992/93 Away Kit",
-                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/638ea789-43f7-4327-b891-adc5ee96eb0c/OUhLVkqG.png"
+                        "kit_name": "Sheffield United 1992/93 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/premierleague/photo/2018/01/31/63e93315-b677-4383-a9cd-dd94c87d2d5d/vBznXYDx.png"
                     }
                 ]
             }
@@ -6945,6 +6495,30 @@
         "club_name": "Tottenham Hotspur",
         "club_fpl_name": "Spurs",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644704,
+                        "kit_type": "home",
+                        "kit_name": "Tottenham Hotspur 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/e6d9b79f-8bdd-4af6-851e-3f2308ea1010/TOT_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644705,
+                        "kit_type": "away",
+                        "kit_name": "Tottenham Hotspur 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/341d3d4a-3296-4e41-a661-abc350a2bb5f/TOT_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3663152,
+                        "kit_type": "third",
+                        "kit_name": "Tottenham Hotspur 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/31/d7dcc670-cbb9-4958-bc2c-66e909ebb2ec/TOT_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
@@ -7565,6 +7139,30 @@
         "club_fpl_name": "West Ham",
         "seasons": [
             {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644730,
+                        "kit_type": "home",
+                        "kit_name": "West Ham United 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/99cec219-3b71-4386-873b-52092ffb7d16/WHU_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644728,
+                        "kit_type": "away",
+                        "kit_name": "West Ham United 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/fe7f0617-5806-44cc-be01-f6325464293b/WHU_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644729,
+                        "kit_type": "third",
+                        "kit_name": "West Ham United 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/6c24d7b9-34f8-40ee-86cf-0e736750db21/WHU_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
+            {
                 "season_id": 489,
                 "season_year": "2022/23",
                 "season_kits": [
@@ -8105,6 +7703,30 @@
         "club_name": "Wolverhampton Wanderers",
         "club_fpl_name": "Wolves",
         "seasons": [
+            {
+                "season_id": 578,
+                "season_year": "2023/24",
+                "season_kits": [
+                    {
+                        "kit_id": 3644736,
+                        "kit_type": "home",
+                        "kit_name": "Wolverhampton Wanderers 2023/24 Home Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/c128c96f-793e-418e-a4ee-1b10e88db28b/WOL_2324_HK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644735,
+                        "kit_type": "away",
+                        "kit_name": "Wolverhampton Wanderers 2023/24 Away Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/b55b7f25-c3b2-4ed6-8bff-b393e3ef324f/WOL_2324_AK_PL_S1.png"
+                    },
+                    {
+                        "kit_id": 3644734,
+                        "kit_type": "third",
+                        "kit_name": "Wolverhampton Wanderers 2023/24 Third Kit",
+                        "kit_image_url": "https://resources.premierleague.com/photos/2023/08/20/62135438-eabe-460c-a3db-4a7f586a8240/WOL_2324_TK_PL_S1.png"
+                    }
+                ]
+            },
             {
                 "season_id": 489,
                 "season_year": "2022/23",
